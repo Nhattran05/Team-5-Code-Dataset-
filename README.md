@@ -1,3 +1,3 @@
 - Data cho file train ở tập generated_flight_data.json.
 - Data cho file test ở tập test.json.
-- Các thư viện và library đã được ghi sẵn ở notebook.
+- Các thư viện đã được ghi sẵn ở notebook.
